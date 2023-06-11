@@ -17,7 +17,7 @@ class MainActivity : AppCompatActivity() {
         // Example of a call to a native method
         binding.sampleText.text = stringFromJNI()
 
-        brightness("path", 0.5F)
+//        brightness("path", 0.5F)
     }
 
     /**
